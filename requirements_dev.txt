@@ -13,4 +13,3 @@ plotly
 scipy
 scikit-learn
 mkdocs-material
--e .
