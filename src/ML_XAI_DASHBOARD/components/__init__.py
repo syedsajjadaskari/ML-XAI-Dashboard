@@ -1,1 +1,1 @@
-from .Home import *
+from src.ML_XAI_DASHBOARD.components import *
