@@ -4,7 +4,7 @@ import logging
 
 logging.basicConfig(level=logging.INFO, format='[%(asctime)s]: %(message)s: ')
 
-package_name='ML_XAI_Dashboard'
+package_name='ML_XAI_DASHBOARD'
 
 list_file=[
     ".github/workflows/.gitkeep",
