@@ -1,4 +1,4 @@
-from src.ML_XAI_DASHBOARD.components import Home
+from src.ML_XAI_DASHBOARD.components import Home,DataInfo,RegPreProcessing,ClsPreProcessing,RegTraining,ClsTraining,RegModel,Prediction,ClsModel
 import streamlit as st
 import os
 from pathlib import Path
