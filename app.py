@@ -1,4 +1,4 @@
-from src.ML_XAI_Dashboard.components import Home,DataInfo,RegPreProcessing,ClsPreProcessing,RegTraining,ClsTraining,RegModel,Prediction,ClsModel
+from ML_XAI_Dashboard.components import Home,DataInfo,RegPreProcessing,ClsPreProcessing,RegTraining,ClsTraining,RegModel,Prediction,ClsModel
 import streamlit as st
 import os
 import pymongo
