@@ -1,0 +1,16 @@
+#streamlit library
+streamlit
+streamlit-aggrid
+streamlit-option-menu
+streamlit-pandas-profiling
+
+#developers library
+pycaret
+pandas
+matplotlib
+numpy
+plotly
+scipy
+scikit-learn
+mkdocs-material
+-e .
