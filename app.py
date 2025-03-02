@@ -1,7 +1,6 @@
-from ML_XAI_Dashboard.components import Home
+from src.ML_XAI_DASHBOARD.components import Home
 import streamlit as st
 import os
-import pymongo
 from pathlib import Path
 
 PAGES={
