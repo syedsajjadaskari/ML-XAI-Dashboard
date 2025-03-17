@@ -3,12 +3,12 @@ import streamlit as st
 import os
 from pathlib import Path
 
-PAGES={
+PAGES = {
     "Home": Home,
-    "DataInfo":DataInfo,
+    "DataInfo": DataInfo,
     "PreProcessing": (RegPreProcessing, ClsPreProcessing),
-    "Training":(RegTraining, ClsTraining),
-    "Model Analysis":(RegModel, ClsModel),
+    "Training": (RegTraining, ClsTraining),
+    "Model Analysis": (RegModel, ClsModel),
     "Prediction And Save": Prediction,
 }
 
