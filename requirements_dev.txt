@@ -5,9 +5,8 @@ streamlit-option-menu
 streamlit-pandas-profiling
 
 #developers library
-pycaret
+pycaret[full]
 pandas
-ydata_profiling
 matplotlib
 numpy
 plotly
